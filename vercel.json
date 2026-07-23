@@ -10,7 +10,7 @@
     { "src": "/ayan", "dest": "/ayan.js" },
     { "src": "/furqan", "dest": "/furqan.js" },
     { "src": "/kami", "dest": "/kami.js" },
-    { "src": "/zubair", "dest": "/zubair.js" },
+    { "src": "/as", "dest": "/as.js" },
     { "src": "/zubairpass", "dest": "/zubairpass.js" }
   ]
 }
