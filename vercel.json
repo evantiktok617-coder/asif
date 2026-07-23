@@ -4,12 +4,12 @@
     { "src": "*.js", "use": "@vercel/node" }
   ],
   "routes": [
-    { "src": "/shamir", "dest": "/shamir.js" },
-    { "src": "/naveed", "dest": "/naveed.js" },
-    { "src": "/laraib", "dest": "/laraib.js" },
-    { "src": "/Sabirpass", "dest": "/Sabirpass.js" },
-    { "src": "/ahtsham", "dest": "/ahtsham.js" },
-    { "src": "/waris", "dest": "/waris.js" },
+    { "src": "/maqbool", "dest": "/maqbool.js" },
+    { "src": "/jan", "dest": "/jan.js" },
+    { "src": "/aman", "dest": "/aman.js" },
+    { "src": "/ayan", "dest": "/ayan.js" },
+    { "src": "/furqan", "dest": "/furqan.js" },
+    { "src": "/kami", "dest": "/kami.js" },
     { "src": "/zubair", "dest": "/zubair.js" },
     { "src": "/zubairpass", "dest": "/zubairpass.js" }
   ]
